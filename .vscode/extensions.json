@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "charliermarsh.ruff",
+    "codezombiech.gitignore",
+    "cstrap.python-snippets",
+    "kevinrose.vsc-python-indent",
+    "mechatroner.rainbow-csv",
+    "ms-python.black-formatter",
+    "ms-python.debugpy",
+    "ms-python.isort",
+    "ms-python.python",
+    "njqdev.vscode-python-typehint",
+    "oderwat.indent-rainbow",
+    "usernamehw.errorlens",
+    "ms-python.mypy-type-checker"
+  ]
+}

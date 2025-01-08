@@ -1,0 +1,15 @@
+# Ignore Python cache files
+*.pyc
+__pycache__/
+*.ruff_cache
+*.mypy_cache
+
+# Environment files
+.env
+
+# Virtual environment
+.venv
+venv
+
+# Ignore logs
+*.log
