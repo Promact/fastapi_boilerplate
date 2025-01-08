@@ -189,7 +189,35 @@ These configurations ensure consistent code style, catch potential errors early,
 
 To quickly bootstrap this project structure, you can use our setup script:
 
-Download the setup script from [here](https://raw.githubusercontent.com/Promact/fastapi_boilerplate/main/setup.sh)
+Download the setup script,
+
+Using Windows Command Prompt:
+
+Using Windows Command Prompt:
+
+```cmd
+curl -o setup.sh https://raw.githubusercontent.com/Promact/fastapi_boilerplate/main/setup.sh
+```
+
+Using PowerShell:
+
+```powershell
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Promact/fastapi_boilerplate/main/setup.sh" -OutFile "setup.sh"
+```
+
+Using Linux/Unix terminal:
+
+```bash
+wget https://raw.githubusercontent.com/Promact/fastapi_boilerplate/main/setup.sh
+```
+
+Using Mac terminal:
+
+```bash
+curl -O https://raw.githubusercontent.com/Promact/fastapi_boilerplate/main/setup.sh
+```
+
+Run the script,
 
 ```bash
 chmod +x setup.sh
